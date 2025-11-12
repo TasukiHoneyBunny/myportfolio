@@ -1,0 +1,9 @@
+.hero-section {
+    background-image: url('../images/japan and others part 2 001.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding: 50px;
+    text-align: center;
+}
